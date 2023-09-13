@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import NavBar from "./components/NavBar";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Restaurant from "./pages/Restaurant";
+import update from "./pages/update";
 
 function App() {
  
